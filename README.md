@@ -11,8 +11,8 @@ I'm a curious Software Engineer with a passion for Backend Engineering, Python e
 ## 💡 What I'm Up To
 - 🔭 Building some cool stuff:
   - [personal page](https://ragulk.com) - My digital garden
-  - [hearth](https://github.com/hearth) - Coming soon!
-  - [ragul-django-cookie-cutter](https://github.com/ragul-django-cookie-cutter) - My take on Django project scaffolding
+  - [hearth](https://github.com/ragul-kachiappan/hearth) - Coming soon!
+  - [ragul-django-cookie-cutter](https://github.com/ragul-kachiappan/ragul-django-cookie-cutter) - My take on Django project scaffolding
 - 🌱 Deep diving into: terraform, k8s, and AWS Solutions Architecture
 - 🤝 Active contributor to open source:
   - Made contributions to FastAPI, DSPy (Stanford NLP), Chroma DB, Langchain, Llamaindex, and ragas
