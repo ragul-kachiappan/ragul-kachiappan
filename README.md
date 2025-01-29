@@ -6,7 +6,7 @@ I'm a curious Software Engineer with a passion for Backend Engineering, Python e
 - Backend: Python, Django, FastAPI, SQL
 - DevOps: Docker, Kubernetes, AWS, Azure
 - AI/ML: LLMs, MLOps, Pytorch, Hugging Face
-- Tools: Vim, Git, Linux (my daily driver!)
+- Tools: Vim, Git, Linux 
 
 ## 💡 What I'm Up To
 - 🔭 Building some cool stuff:
