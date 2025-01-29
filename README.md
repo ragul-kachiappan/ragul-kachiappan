@@ -4,7 +4,7 @@ I'm a curious Software Engineer with a passion for Backend Engineering, Python e
 
 ## 🛠 Tech I Love Working With
 - Backend: Python, Django, FastAPI, SQL
-- DevOps: Docker, Kubernetes, AWS, Azure
+- DevOps: Docker, Kubernetes, AWS, Azure, terraform
 - AI/ML: LLMs, MLOps, Pytorch, Hugging Face
 - Tools: Vim, Git, Linux 
 
