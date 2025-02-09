@@ -27,6 +27,8 @@ I'm a strong believer in FOSS principles and love collaborating with open source
 - Hackerrank profile [HackerRank](https://www.hackerrank.com/rahul_kachiappan)
 - Leetcode profile [LeetCode](https://leetcode.com/u/ragul_kachiappan/)
 
+P.S: I work with different Github accounts for personal,vprofessional and contract works. This account contains purely my personal explorations, hobbies, learnings, FOSS contributions, etc.
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
